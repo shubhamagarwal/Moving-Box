@@ -10,5 +10,7 @@
 
 5. Once the project start at http://localhost:3000/ you can move the box from the arrow keys as well as from the button.
 
+6. run npm test to run the test cases.
+
 
 
